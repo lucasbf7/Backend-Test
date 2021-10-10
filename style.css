@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;400;700&display=swap");
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  color: black;
+  background-image: url("https://images2.alphacoders.com/339/thumb-1920-3392.jpg");
+  margin: 0px;
+}
+
+.nav-bar {
+  background: linear-gradient(-90deg, #01e3ff, #6cc908);
+  height: 60px;
+  margin-bottom: 15px;
+}
+
+.title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 36px;
+  margin-bottom: 30px;
+}
+
+.container {
+  background-color: white;
+  opacity: 0.8;
+  border-radius: 8px;
+  margin: 5px;
+  padding: 5px;
+}
+
+.subtitle {
+  font-weight: 400;
+  font-size: 28px;
+  margin-left: 18px;
+}
+
+.s1 {
+  margin-left: 18px;
+}
+
+.form {
+  background: #f8f8ff;
+  margin: 35px 450px;
+  text-align: center;
+  border-radius: 30px;
+  box-shadow: 6px 6px 6px #cacad0;
+  padding: 1px 35px 20px;
+  position: flex;
+}
+
+.subtitle2 {
+  font-weight: 400;
+  font-size: 28px;
+  text-align: center;
+  margin-bottom: 3px;
+}
+
+.dados {
+  text-align: left;
+}
+
+.nome, .snome, .email, .telefone {
+  padding: 4px;
+  border-radius: 3px;
+}
+
+.nome {
+  margin-right: 15px;
+}
+
+.aviso {
+  line-height: 0.1;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-size: 14px
+}
+
+.botao {
+  border-radius: 4px;
+  padding: 5px 8px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.botao:hover {
+    box-shadow: 3px 3px 3px #cacad0;
+}
+
+p {
+  margin-bottom: 6px;
+}

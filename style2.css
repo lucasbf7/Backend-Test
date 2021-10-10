@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;400;700&display=swap");
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  color: black;
+  background-image: url("https://images2.alphacoders.com/339/thumb-1920-3392.jpg");
+  margin: 0px;
+}
+
+.nav-bar {
+  background: linear-gradient(-90deg, #01e3ff, #6cc908);
+  height: 60px;
+  margin-bottom: 15px;
+}
+
+.link {
+  text-align: center;
+  margin-top: 100px;
+}
